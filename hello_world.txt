@@ -1,1 +1,2 @@
-test
+test 
+change to test the git commit with the VS code message 

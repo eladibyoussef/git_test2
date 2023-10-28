@@ -1,3 +1,3 @@
 # git_test2
-"first github rop
+"first github repository!
 Hello Odin!
